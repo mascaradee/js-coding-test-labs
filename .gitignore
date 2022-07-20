@@ -1,0 +1,7 @@
+# Build and Release Folders
+node_modules
+package-lock.json
+
+# ETC.
+.vscode
+exam
