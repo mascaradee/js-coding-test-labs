@@ -6,7 +6,7 @@ const { log } = console;
 function solution(num1, num2, max) {
   let sum = 0;
   for (let index = 1; index < max; index++) {
-    if (index % 3 == 0 || index % 5 == 0) {
+    if (index % num1 == 0 || index % num2 == 0) {
       sum += index;
     }
   }
