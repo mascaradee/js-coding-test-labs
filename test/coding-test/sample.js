@@ -12,6 +12,6 @@ describe("프로그래머스- 코딩테스트제목", function () {
     assert.deepStrictEqual(solution(), []);
   });
   it("테스트 케이스2 ", function () {
-    assert.deepStrictEqual(solution(), []);
+    assert.strictEqual(solution(), '');
   });
 });
