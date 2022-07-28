@@ -9,7 +9,7 @@ function solution(arr) {
 }
 
 
-describe("프로그래머스- 제일 작은 수 제거하기", function () {
+describe(" 제일 작은 수 제거하기", function () {
   it("테스트 케이스1 ", function () {
     assert.deepStrictEqual(solution([4, 3, 2, 1]), [4, 3, 2]);
   });

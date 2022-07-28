@@ -87,7 +87,7 @@ function solution(id_list, report, k) {
 
 
 
-describe("프로그래머스- 신고 결과 받기", function () {
+describe(" 신고 결과 받기", function () {
   it("유저별 정지ID알림 메일 받는 건수1 ", function () {
     assert.deepStrictEqual(solution(["muzi", "frodo", "apeach", "neo"], ["muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"], 2), [2, 1, 1, 0]);
   });

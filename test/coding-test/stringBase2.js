@@ -33,7 +33,7 @@ function solution(n) {
 // }
 
 
-describe("프로그래머스- 수박수박수박수박수박수?", function () {
+describe(" 수박수박수박수박수박수?", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution(3), "수박수");
   });

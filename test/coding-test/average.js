@@ -7,7 +7,7 @@ function solution(arr) {
 }
 
 
-describe("프로그래머스- 코딩테스트제목", function () {
+describe(" 코딩테스트제목", function () {
   it("테스트 케이스1 ", function () {
     assert.deepStrictEqual(solution([1, 2, 3, 4]), 2.5);
   });

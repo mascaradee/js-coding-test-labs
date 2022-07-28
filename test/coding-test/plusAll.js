@@ -14,7 +14,7 @@ function solution(n) {
 }
 
 
-describe("프로그래머스- 자릿수 더하기", function () {
+describe(" 자릿수 더하기", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution(123), 6);
   });

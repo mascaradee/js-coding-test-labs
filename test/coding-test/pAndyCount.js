@@ -24,7 +24,7 @@ function solution(s) {
 }
 
 
-describe("프로그래머스- 문자열 내 p와 y의 개수", function () {
+describe(" 문자열 내 p와 y의 개수", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution("pPoooyY"), true);
   });

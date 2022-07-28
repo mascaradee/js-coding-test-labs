@@ -16,7 +16,7 @@ function solution(s) {
 }
 
 
-describe("프로그래머스- 문자열을 정수로 바꾸기", function () {
+describe(" 문자열을 정수로 바꾸기", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution("1234"), 1234);
   });

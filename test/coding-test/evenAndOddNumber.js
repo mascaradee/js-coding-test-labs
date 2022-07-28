@@ -12,7 +12,7 @@ function solution(num) {
 }
 
 
-describe("프로그래머스- 짝수와 홀수", function () {
+describe(" 짝수와 홀수", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution(3), "Odd");
   });

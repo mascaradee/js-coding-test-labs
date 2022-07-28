@@ -13,7 +13,7 @@ function solution(s) {
 // }
 
 
-describe("프로그래머스- 핸드폰 번호 가리기", function () {
+describe(" 핸드폰 번호 가리기", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution("01033334444"), "*******4444");
   });

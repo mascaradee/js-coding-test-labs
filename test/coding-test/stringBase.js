@@ -19,7 +19,7 @@ function solution(s) {
 }
 
 
-describe("프로그래머스- 문자열 다루기 기본", function () {
+describe(" 문자열 다루기 기본", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution("a234"), false);
   });

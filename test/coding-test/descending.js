@@ -19,7 +19,7 @@ function solution(n) {
 }
 
 
-describe("프로그래머스- 정수 내림차순으로 배치하기", function () {
+describe(" 정수 내림차순으로 배치하기", function () {
   it("테스트 케이스1 ", function () {
     assert.deepStrictEqual(solution(118372), 873211);
   });

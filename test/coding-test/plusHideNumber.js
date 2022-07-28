@@ -24,7 +24,7 @@ function solution(numbers) {
 }
 
 
-describe("프로그래머스- 없는 숫자 더하기", function () {
+describe(" 없는 숫자 더하기", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution([1, 2, 3, 4, 6, 7, 8, 0]), 14);
   });

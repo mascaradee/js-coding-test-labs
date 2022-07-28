@@ -82,7 +82,7 @@ function solution(str) {
     : backwardSearchTimes;
 }
 
-describe("Codility 알고리즘 테스트 - ABSwaps", function () {
+describe("알고리즘 테스트 - ABSwaps", function () {
   it("should be equal", function () {
     assert.strictEqual(solution("ccc"), -1);
     assert.strictEqual(solution("123"), -1);

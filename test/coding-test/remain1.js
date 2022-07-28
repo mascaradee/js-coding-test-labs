@@ -29,7 +29,7 @@ function solution(n) {
 }
 
 
-describe("프로그래머스- 나머지가 1이 되는 수 찾기", function () {
+describe(" 나머지가 1이 되는 수 찾기", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution(10), 3);
   });

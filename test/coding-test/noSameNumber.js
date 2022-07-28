@@ -22,7 +22,7 @@ function solution(arr) {
 }
 
 
-describe("프로그래머스- 같은 숫자는 싫어", function () {
+describe(" 같은 숫자는 싫어", function () {
   it("테스트 케이스1 ", function () {
     assert.deepStrictEqual(solution([1, 1, 3, 3, 0, 1, 1]), [1, 3, 0, 1]);
   });

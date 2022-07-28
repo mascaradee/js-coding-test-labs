@@ -88,7 +88,7 @@ function solution(new_id) {
 
 
 
-describe("프로그래머스-신규아이디추천", function () {
+describe("신규아이디추천", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution("...!@BaT#*..y.abcdefghijklm"), "bat.y.abcdefghi");
   });

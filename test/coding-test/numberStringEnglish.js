@@ -50,7 +50,7 @@ function solution(s) {
 // }
 
 
-describe("프로그래머스- 숫자 문자열과 영단어", function () {
+describe(" 숫자 문자열과 영단어", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution("one4seveneight"), 1478);
   });

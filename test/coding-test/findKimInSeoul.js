@@ -20,7 +20,7 @@ function solution(seoul) {
 }
 
 
-describe("프로그래머스- 코딩테스트제목", function () {
+describe(" 코딩테스트제목", function () {
   it("테스트 케이스1 ", function () {
     assert.strictEqual(solution(["Jane", "Kim"]), "김서방은 1에 있다");
   });
