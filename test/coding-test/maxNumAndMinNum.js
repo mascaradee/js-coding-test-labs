@@ -1,8 +1,14 @@
 const assert = require("assert");
 const { log } = console;
 
-
+/** 20220728 미완성 */
 function solution(n, m) {
+
+  // 최대공약수
+  // 작은수 찾기
+  // 나머지가 0인 것 중 가장 큰수 
+
+
 
   return [];
 
